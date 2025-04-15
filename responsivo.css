@@ -1,0 +1,92 @@
+@media(max-width: 740px){
+
+	h1 {
+		font-size: 25px!important;
+	}
+	h2 {
+		font-size: 18px!important;
+	}
+	.infor-top {
+		text-align: center!important;
+	}
+	header {
+		display: flex;
+		flex-direction: column!important;
+	}
+	.logo-top img {
+		width: 100%;
+		max-width: 80px;
+	}
+	nav {
+		margin-top: 12px;
+		margin-bottom: 12px;
+	}
+	nav ul{
+		display: flex;
+		flex-direction: column!important;
+	}
+	nav ul li {
+		padding: 7px 4px 4px 4px;
+		width: 100%;
+		min-width: 240px;
+		text-align: center;
+		border: 1px solid #ccc;
+		margin-bottom: 5px;
+	}
+	nav ul li:hover {
+		border: none!important;
+		background-color: var(--azulsintex);
+		border: 1px solid #fff;
+		transition: 0.3s;
+	}
+	nav a:hover {
+    color: var(--hovercormarca);
+    transition: 0.3s;
+    text-decoration: none!important;
+	}
+	.content-sobre {
+		display: flex;
+		flex-direction: column!important;
+	}
+	.itens-secao p {
+		text-align: center!important;
+	}
+	.lista-servicos ul {
+		display: flex;
+		flex-direction: column!important;
+	}
+	.lista-servicos ul li {
+		width: 100%;
+		min-width: 80px;
+		margin-bottom: 5px!important;
+	}
+	.content-corretores {
+		display: flex;
+		flex-direction: column!important;
+	}
+	.secao-contato h2 {
+		font-size: 4px;
+	}
+	.location-mapa {
+		border: none!important;
+		padding: none!important;
+	}
+	.secao-footer {
+		display: flex;
+		flex-direction: column!important;
+	}
+	.itens-footer-mini {
+		width: 100%!important;
+		min-width: 100%!important;
+	}
+	.itens-footer {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+	}
+	.itens-footer img {
+		margin: 0px auto;
+	}
+
+
+}
