@@ -8,9 +8,9 @@ Projeto institucional desenvolvido para o setor imobiliário, focado em alta per
 
 ### Visualização Desktop
 
-| Banner Principal                | Localização e Mapa         |
-| ------------------------------- | -------------------------- |
-| ![Banner Desktop](Preview1.png) | ![Mapa Desktop](Preview.3) |
+| Banner Principal                | Localização e Mapa            |
+| ------------------------------- | ----------------------------- |
+| ![Banner Desktop](Preview1.png) | ![Mapa Desktop](Preview3.png) |
 
 ### Visualização Mobile 📱
 
